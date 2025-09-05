@@ -1,3 +1,5 @@
+import 'class_2.dart';
+
 main(){
   // String name = 'Rahim';
   // String address = 'Dhaka';
@@ -24,6 +26,8 @@ main(){
 
     print(student1.StudentName);
 
+    print(animal.className);
+    print(animal.test());
 
 }
 
